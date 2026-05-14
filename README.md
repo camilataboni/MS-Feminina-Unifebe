@@ -1,17 +1,117 @@
-# ms_feminina
+# Minha Saúde Feminina
 
-A new Flutter project.
+Aplicativo mobile desenvolvido para auxiliar mulheres no acompanhamento da saúde feminina em diferentes fases da vida, oferecendo informações educativas, acompanhamento de ciclos, sintomas, bem-estar e orientações.
 
-## Getting Started
+## Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+O aplicativo busca promover autonomia, informação e autocuidado feminino através de tecnologia acessível e intuitiva. A proposta é auxiliar mulheres a compreenderem melhor:
+- ciclo menstrual,
+- período fértil,
+- TPM,
+- saúde hormonal,
+- gravidez,
+- menopausa,
+- autocuidado,
+- saúde emocional,
+- sintomas recorrentes,
+- hábitos saudáveis,
+- acompanhamento corporal.
 
-A few resources to get you started if this is your first Flutter project:
+O sistema foi pensado para proporcionar uma experiência acolhedora, educativa e personalizada, respeitando as diferentes fases da vida feminina.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Status do Projeto
+
+Em desenvolvimento
+
+--- 
+
+# Funcionalidades
+
+## Usuário
+- Cadastro e login
+- Recuperação de senha
+- Edição de perfil
+
+## Conteúdo Educativo
+- Artigos sobre saúde feminina
+- Dicas de autocuidado
+- Saúde mental
+- Alimentação
+- Exercícios físicos
+- Bem-estar hormonal
+
+---
+
+# Tecnologias Utilizadas
+
+## Mobile
+- Flutter 3.24
+
+## Backend
+- Dart
+
+## Banco de Dados
+- Drift (SQLite)
+
+## State Management
+- Riverpod
+
+## Navegação 
+- GoRouter
+
+## Design 
+- Material Design 3
+
+## UI/UX
+- Figma
+
+## Versionamento
+- Git
+- GitHub
+
+---
+
+# Principais Telas do Aplicativo
+
+- Splash Screen
+- Login
+- Cadastro
+- Home
+- Perfil
+- Conteúdo educativo
+
+---
+
+# Protótipo
+
+https://www.figma.com/design/Sukst6YGFJ5CTHUiPzx1aj/Curriculariza%C3%A7%C3%A3o-2026.1?node-id=0-1&t=kybDwZTlE7F6ryS1-0
+
+---
+
+# Arquitetura do Projeto
+
+Será adicionado quando o projeto estiver concluído.
+
+---
+
+# Como executar
+
+Será adicionado quando o projeto estiver concluído.
+
+---
+
+# Futuras Implementações
+
+- Controle menstrual
+- Calendário do ciclo
+- Notificações
+
+---
+
+# Privacidade
+
+Os dados armazenados no aplicativo são de uso pessoal da usuária e não são compartilhados sem autorização.
+
+
